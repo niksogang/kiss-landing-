@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://niksogang.github.io/kiss-landing-/sitemap.xml
